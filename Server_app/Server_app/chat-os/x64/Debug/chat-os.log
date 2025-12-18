@@ -1,0 +1,3 @@
+﻿D:\visual studio comuinty\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (chat-os.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  server.cpp
+  chat-os.vcxproj -> C:\Users\dell\Server_app\Server_app\x64\Debug\Server.exe
