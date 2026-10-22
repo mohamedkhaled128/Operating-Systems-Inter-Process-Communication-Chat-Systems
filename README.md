@@ -133,7 +133,6 @@ The exact build and run commands depend on which implementation and source files
 3. Ensure the shared-memory and synchronization resources are initialized as expected by the implementation.
 4. Send messages through the GUI and verify that the other process receives them.
 
-> **Note:** Add the repository's exact build commands, file names, dependencies, and screenshots here so that another student can reproduce the setup reliably.
 
 ## Repository Contents
 
